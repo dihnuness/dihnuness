@@ -17,4 +17,4 @@
     <img alingn="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br>
 
-Adoro tecnologia, ainda estou no ínicio, mas breve serei um dos melhores!
+Adoro tecnologia, ainda estou no ínicio, mas em breve serei um dos melhores!
