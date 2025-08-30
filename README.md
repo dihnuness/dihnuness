@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-nunes-414744240/)
 
 
-![Diogo Nunes GitHub stats](https://github-readme-stats.vercel.app/api?username=dihnuness&show_icons=true&theme=dracula)!
+![Diogo Nunes GitHub stats](https://github-readme-stats.vercel.app/api?username=dihnuness&show_icons=true&theme=dracula)
 ## Tecnologias que estou utilizando/estudando
 
 <div style="display: inline_block"><br>
